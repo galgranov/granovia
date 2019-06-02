@@ -16,7 +16,8 @@ function slugify(slug) {
 
       marker.info(res);
       marker.info(slug);
-
+  
+      return res;
 
   }
 
